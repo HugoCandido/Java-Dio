@@ -2,6 +2,19 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+
+# Notepaad
+
+Um Metodo em Java pode ser entendido como uma ação, como por exemplo:
+
+Caneta - Escrever ou Pintar.
+
+
+
+
+
+
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
