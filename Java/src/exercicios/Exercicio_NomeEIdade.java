@@ -9,7 +9,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class Ex_NomeEIdade{
+public class Exercicio_NomeEIdade{
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
